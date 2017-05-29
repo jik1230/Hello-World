@@ -1,2 +1,3 @@
 # Hello-World
-The Hello World project is a time-honored tradition in computer programming.
+Hello World项目是计算机程序设计中悠久的传统。
+一世喜欢是WORLd
